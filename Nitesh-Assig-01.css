@@ -1,0 +1,40 @@
+body{
+    margin: 0px;    
+}
+
+.main{
+    background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+    font-size: 26px;
+    display: flex;
+   flex-wrap: wrap;
+   
+}
+
+.header{
+    background-color: lightseagreen;
+    width: 100vw;
+    height: 20vh;
+    
+}
+
+.menu{
+    background-color: lightgoldenrodyellow;
+    width: 20vw;
+    height: 60vh;
+   
+}
+
+.content{
+    background-color: lightcoral;
+    width: 80vw;
+    height: 60vh;
+}
+.footer{
+    background-color: lightgreen;
+    width: 100vw;
+    height: 20vh;
+    
+    
+}

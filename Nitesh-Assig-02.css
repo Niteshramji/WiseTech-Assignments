@@ -1,0 +1,85 @@
+body{
+    margin: 0px;
+}
+
+
+.header{
+    background-color: lightpink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.logo{
+    font-size: 36px;
+    
+}
+
+.dancing-script{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.pages{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 550px;
+    
+    
+}
+
+.button{
+    background-color: floralwhite;
+    border: none;
+    margin-right: 50px;
+    box-sizing: border-box;
+   padding-right: 20px ;
+   padding-left: 20px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   font-size: 12px;
+   font-weight: bold;
+   border-radius: 15px;
+   cursor: pointer;
+    
+}
+
+.home{
+    cursor: pointer;
+    color: white;
+    
+   
+}
+
+.brand{
+    cursor: pointer;
+    color: white;
+   
+}
+
+.sale{
+    cursor: pointer;
+    color: white;
+    
+}
+
+.contact{
+    cursor: pointer;
+    color: white;
+   
+}
+
+.location{
+    cursor: pointer;
+    color: white;
+   
+}
+
